@@ -1,0 +1,1451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"NSLog",
+				"NSLog(NSString *format, ...)	void"
+			],
+			[
+				"pr",
+				"project_path"
+			],
+			[
+				"projec",
+				"project_path"
+			],
+			[
+				"codesi",
+				"codesign_allocate"
+			],
+			[
+				"min",
+				"minios"
+			],
+			[
+				"DE",
+				"DEV_TOOLS_HOME"
+			],
+			[
+				"res",
+				"resource-rules"
+			],
+			[
+				"pl",
+				"platform"
+			],
+			[
+				"bi",
+				"binary"
+			],
+			[
+				"bin",
+				"binaries"
+			],
+			[
+				"prepare",
+				"prepare_env"
+			],
+			[
+				"PLA",
+				"PLATFORMS"
+			],
+			[
+				"ip",
+				"iPhoneOS"
+			],
+			[
+				"devic",
+				"device_family"
+			],
+			[
+				"dev",
+				"device_family"
+			],
+			[
+				"plist",
+				"plistbuddy"
+			],
+			[
+				"dy",
+				"dsymutil"
+			],
+			[
+				"link",
+				"link_objc_runtime"
+			],
+			[
+				"iPho",
+				"iPhoneOS"
+			],
+			[
+				"File",
+				"File	File.read(\"..\")"
+			],
+			[
+				"pro",
+				"project_name"
+			],
+			[
+				"fla",
+				"flags"
+			],
+			[
+				"obj",
+				"objective-c"
+			],
+			[
+				"fl",
+				"flags"
+			],
+			[
+				"sys",
+				"sysroot"
+			],
+			[
+				"sdk",
+				"sdk_root"
+			],
+			[
+				"frame",
+				"framework_root"
+			],
+			[
+				"iP",
+				"iPhoneOS"
+			],
+			[
+				"sysro",
+				"sysroot_for_platform"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"char",
+				"charBlock"
+			],
+			[
+				"volu",
+				"volumeSpan"
+			],
+			[
+				"debug",
+				"debugBoard"
+			],
+			[
+				"ran",
+				"randomWord"
+			],
+			[
+				"__",
+				"__indicesArray"
+			],
+			[
+				"dic",
+				"dictionaryLoaded"
+			],
+			[
+				"soun",
+				"soundId"
+			],
+			[
+				"volum",
+				"volumeSlider"
+			],
+			[
+				"son",
+				"soundId"
+			],
+			[
+				"le",
+				"letter-selected"
+			],
+			[
+				"word",
+				"word-ok"
+			],
+			[
+				"tutorial",
+				"tutorial-bg"
+			],
+			[
+				"inje",
+				"injectWord"
+			],
+			[
+				"inj",
+				"injectWord"
+			],
+			[
+				"col",
+				"cols"
+			],
+			[
+				"in",
+				"injected"
+			],
+			[
+				"next",
+				"nextCell"
+			],
+			[
+				"cont",
+				"contentSz"
+			],
+			[
+				"st",
+				"stCol"
+			],
+			[
+				"end",
+				"endEvt"
+			],
+			[
+				"out",
+				"out-of-time"
+			],
+			[
+				"debu",
+				"debugBoard"
+			],
+			[
+				"outO",
+				"outOfTimeCallback"
+			],
+			[
+				"check",
+				"checkOutOfTime"
+			],
+			[
+				"lower",
+				"lowerY"
+			],
+			[
+				"game",
+				"game-bg"
+			],
+			[
+				"lo",
+				"lowerY"
+			],
+			[
+				"boa",
+				"board"
+			],
+			[
+				"to",
+				"toLocaleLowerCase"
+			],
+			[
+				"wo",
+				"wordsArray"
+			],
+			[
+				"id",
+				"idxEnd"
+			],
+			[
+				"idx",
+				"idxStart"
+			],
+			[
+				"wor",
+				"wordsArray"
+			],
+			[
+				"words",
+				"wordsArray"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"indi",
+				"indicesArray"
+			],
+			[
+				"Uint",
+				"Uint8Array"
+			],
+			[
+				"respo",
+				"response"
+			],
+			[
+				"req",
+				"requestDictionaryFile"
+			],
+			[
+				"on",
+				"onreadystatechange"
+			],
+			[
+				"fet",
+				"fetchDictionary"
+			],
+			[
+				"li",
+				"list_n"
+			],
+			[
+				"temp",
+				"temp_node1"
+			],
+			[
+				"list",
+				"list_n"
+			],
+			[
+				"lis",
+				"list_i"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pref",
+				"prefixLen"
+			],
+			[
+				"tail",
+				"tailStore"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"ch",
+				"charVal"
+			],
+			[
+				"va",
+				"getCharValue"
+			],
+			[
+				"compare",
+				"compareRes"
+			],
+			[
+				"proto",
+				"proto	Prototype"
+			],
+			[
+				"string",
+				"string"
+			],
+			[
+				"get",
+				"getCharValue"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"av",
+				"avgAngle"
+			],
+			[
+				"cur",
+				"curAngle"
+			],
+			[
+				"last",
+				"last_cell"
+			],
+			[
+				"las",
+				"lastY"
+			],
+			[
+				"_",
+				"_sounds"
+			],
+			[
+				"pau",
+				"pauseAll"
+			],
+			[
+				"chil",
+				"childSz"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"play",
+				"playBG"
+			],
+			[
+				"create",
+				"createSound"
+			],
+			[
+				"new",
+				"new-row"
+			],
+			[
+				"gam",
+				"game-bg"
+			],
+			[
+				"sound",
+				"soundManager"
+			],
+			[
+				"crea",
+				"createSound"
+			],
+			[
+				"boar",
+				"boardSz"
+			],
+			[
+				"cell",
+				"cellSize"
+			],
+			[
+				"cel",
+				"cellSize"
+			],
+			[
+				"but",
+				"buttonHelp"
+			],
+			[
+				"margin",
+				"marginTop"
+			],
+			[
+				"rep",
+				"repeatSeq"
+			],
+			[
+				"te",
+				"setText"
+			],
+			[
+				"removeAll",
+				"removeAllChildren"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"loo",
+				"loopAction"
+			],
+			[
+				"Game",
+				"GameScene"
+			],
+			[
+				"curre",
+				"currentWord"
+			],
+			[
+				"cu",
+				"currentWord"
+			],
+			[
+				"butt",
+				"buttonHelp"
+			],
+			[
+				"bu",
+				"buttonMulti"
+			],
+			[
+				"move",
+				"moveDown"
+			],
+			[
+				"star",
+				"startRows"
+			],
+			[
+				"sfx",
+				"sfxClick"
+			],
+			[
+				"bg",
+				"bgAudio"
+			],
+			[
+				"sco",
+				"scoreLabel"
+			],
+			[
+				"time",
+				"timerAction"
+			],
+			[
+				"tick",
+				"tickTime"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"ches",
+				"chesterGL"
+			],
+			[
+				"cheser",
+				"chesterGL"
+			],
+			[
+				"run",
+				"runAction"
+			],
+			[
+				"find",
+				"findWord"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Rakefile",
+			"settings":
+			{
+				"buffer_size": 8635,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project.yaml",
+			"settings":
+			{
+				"buffer_size": 871,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myapp.sublime-project",
+			"settings":
+			{
+				"buffer_size": 745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/AppDelegate.m",
+			"settings":
+			{
+				"buffer_size": 2242,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":x",
+				"Snippet: xmlread(..)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 453.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rolando/Documents/ios-app-wo-xcode/src/AppDelegate.h",
+		"/Users/rolando/Documents/ios-app-wo-xcode/src/AppDelegate.m",
+		"/Users/rolando/Documents/ios-app-wo-xcode/out/myapp.app/Info.good.plist",
+		"/Users/rolando/Library/Application Support/Sublime Text 2/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/Users/rolando/Documents/ios-app-wo-xcode/fruitstrap",
+		"/Users/rolando/Documents/ios-app-wo-xcode/ios-sim",
+		"/Users/rolando/Documents/ios-app-wo-xcode/myapp.sublime-project",
+		"/Users/rolando/Documents/ios-app-wo-xcode/myapp.sublime-workspace",
+		"/Users/rolando/Documents/ios-app-wo-xcode/resources/Info.plist",
+		"/Users/rolando/Documents/ios-app-wo-xcode/out/myapp.app/Info.plist",
+		"/Users/rolando/Documents/ios-app-wo-xcode/src/myapp-Prefix.pch",
+		"/Users/rolando/Documents/ios-app-wo-xcode/src/test.mm",
+		"/Users/rolando/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/rolando/Documents/ios-app-wo-xcode/resources/info-b.plist",
+		"/Users/rolando/Library/Application Support/Sublime Text 2/Packages/User/SublimeClang.sublime-settings",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/c++/4.2.1/tr1/boost_shared_ptr.h",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/modes_menu.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/main_menu.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/game.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/buttons.js",
+		"/Users/rolando/Documents/cocos2d/spidermonkeydbg/dbg_client.rb",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/binary_search.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/tutorial.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/loading_scene.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/letter.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/audio_test.js",
+		"/Users/rolando/Documents/shift/caramba/game/caramba.manifest",
+		"/Users/rolando/Documents/shift/caramba/game/audio_test.html",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/board.js",
+		"/Users/rolando/Desktop/drawing.svg",
+		"/Users/rolando/Documents/shift/caramba/game/index.html",
+		"/Users/rolando/Documents/shift/caramba/game/d7e5d7f69a06cddc694ad054ec88f412a9e0a3ad.html",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/game_over.js",
+		"/Users/rolando/Documents/shift/caramba/game/db/README.md",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/new_worker.js",
+		"/Users/rolando/Documents/shift/caramba/game/db/manifest.json",
+		"/Users/rolando/Documents/shift/caramba/game/db/check_db.js",
+		"/Users/rolando/Documents/shift/caramba/game/db/lemario.sort.es.txt",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/double_array.js",
+		"/Users/rolando/Documents/shift/caramba/game/db/prepare_db.js",
+		"/Users/rolando/Documents/shift/caramba/game/db/lemario.es.txt",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/sound.js",
+		"/Users/rolando/Documents/shift/caramba/game/favicon.ico",
+		"/Users/rolando/Documents/shift/caramba/game/css/game.css",
+		"/Users/rolando/Documents/shift/caramba/game/_index.html",
+		"/Users/rolando/Documents/shift/caramba/game/images/buttons/buttons.json",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/chester.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/main.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/word_search.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/require.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/trie.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/native.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/main-built.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/worker.js",
+		"/Users/rolando/Documents/shift/caramba/game/scripts/IndexedDBShim.min.js",
+		"/Users/rolando/Documents/shift/caramba/game/fonts/arial.fnt",
+		"/Users/rolando/Documents/shift/caramba/game/caramba.sublime-project",
+		"/Users/rolando/Documents/personal/webglshim/webglshim/webgl/glue.ios.mm",
+		"/Users/rolando/Documents/spidermonkey-debugger/debugger.sublime-project",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jstypes.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/Makefile",
+		"/Users/rolando/Documents/spidermonkey-debugger/webgl/lodepng.c",
+		"/Users/rolando/Documents/spidermonkey-debugger/webgl/WebGLRenderingContext.cpp",
+		"/Users/rolando/Documents/spidermonkey-debugger/webgl/lodepng.cpp",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jsdbgapi.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/webgl/WebGLContext",
+		"/System/Library/Frameworks/opengl.framework/Headers/gl.h",
+		"/System/Library/Frameworks/OpenGL.framework/Headers/gltypes.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jsapi.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jsprvtd.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jswrapper.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jslock.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jsgc.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jsdhash.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/js-config.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jsval.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/spidermonkey/include/jspubtd.h",
+		"/Users/rolando/Documents/spidermonkey-debugger/server.hpp",
+		"/Users/rolando/Documents/spidermonkey-debugger/server.c",
+		"/Users/rolando/Documents/personal/ChesterGL/chesterGL/actions.js",
+		"/Users/rolando/Documents/personal/ChesterGL/chesterGL/blockFrames.js",
+		"/Users/rolando/Documents/personal/ChesterGL/test.html",
+		"/Users/rolando/Documents/personal/ChesterGL/chesterGL/primitivesBlock.js",
+		"/Users/rolando/Library/Application Support/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/Users/rolando/Documents/personal/ChesterGL/html/index.html",
+		"/Users/rolando/Documents/personal/ChesterGL/chesterGL/GPUParticleSystem.js",
+		"/Users/rolando/Documents/personal/ChesterGL/chesterGL/particleSystem.js",
+		"/Users/rolando/Documents/personal/ChesterGL/Makefile",
+		"/Users/rolando/Documents/personal/ChesterGL/chesterGL/core.js",
+		"/Users/rolando/Sites/impact/lib/game/levels/test.js",
+		"/Users/rolando/Sites/impact/media/04b03.font.png",
+		"/Users/rolando/Sites/impact/impact.rb",
+		"/Users/rolando/Documents/personal/ChesterGL/chesterGL.old/block.js",
+		"/Users/rolando/Documents/personal/ChesterGL/chesterGL.old/actions.js",
+		"/Users/rolando/Documents/cocos2d/cocos2d-html5/cocos2d/platform/CCApplication.js",
+		"/Users/rolando/Documents/personal/cocos2d-x-javascript-presentation/presentation.html",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/templates/register.c",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/templates/layout_head.c",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/common/cocos2d_specifics.cpp",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/templates/ifunction_overloaded.c",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/templates/ifunction.c",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/common/ScriptingCore.h",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/common/ScriptingCore.cpp",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/cocos2dx.ini",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/gen/cocos2dx.cpp",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/templates/layout_foot.c",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/common/cocos2d_specifics.hpp",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/templates/prelude.h",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/generator.py",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/conversions.yaml",
+		"/Users/rolando/Documents/spidermonkey/include/jsapi.h",
+		"/Users/rolando/Documents/cocos2d/cocos2d-x/cocos2dx/cocoa/CCObject.h",
+		"/Users/rolando/Documents/spidermonkey/include/jspubtd.h",
+		"/Users/rolando/Documents/spidermonkey/include/jsval.h",
+		"/Users/rolando/Documents/spidermonkey/include/js/Utility.h",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/templates/sfunction_overloaded.c",
+		"/Users/rolando/Documents/cocos2d/cocos2d-x/cocos2dx/actions/CCActionInstant.h",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/common/spidermonkey_specifics.h",
+		"/Users/rolando/Documents/spidermonkey/include/jsfriendapi.h",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/templates/layout_head.h",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/targets/spidermonkey/common/uthash.h",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/cxx-generator.sublime-project",
+		"/Users/rolando/Documents/cocos2d/cocos2d-x/cocos2dx/CCDirector.h",
+		"/Users/rolando/Documents/spidermonkey/include/mozilla/Util.h",
+		"/Users/rolando/Documents/cocos2d/cxx-generator/cxx-generator.sublime-workspace",
+		"/Users/rolando/Documents/projects/each/sample/each.js",
+		"/Users/rolando/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/rolando/Library/Application Support/Sublime Text 2/Packages/User/sublime-jslint.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/rolando/Documents/shift/caramba/game/scripts",
+			"/Users/rolando/Documents/cocos2d/cxx-generator/targets",
+			"/Users/rolando/Documents/cocos2d-x/js/cxx-generator/targets",
+			"/Users/rolando/Documents/shift/caramba/game/javascript"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bundle_iden",
+			"join",
+			"CFBundleExecutable",
+			" -",
+			"new chesterGL.BMFontLabelBlock",
+			"populateBoard",
+			"volumeSlider",
+			"span",
+			"Math.flo",
+			"this.content",
+			"SCORE_AND_COLOR",
+			"this.lowerY",
+			"letter-sele",
+			"SSound.",
+			"findWord",
+			"lastTestedWord",
+			"post",
+			" \"",
+			"tailStore",
+			"-1",
+			"goog.base",
+			"angle",
+			"onWord",
+			"SSound.loop",
+			"soundManager",
+			"soundManager.play",
+			"soundManager",
+			"\"soundManager\"",
+			"play",
+			"addRow",
+			"wordSound",
+			"pause",
+			"stop",
+			"this.speed",
+			"sz",
+			"320",
+			"11",
+			"11this.",
+			"8",
+			"70_8",
+			"36",
+			"4",
+			"8",
+			"tile_05",
+			"tile_03",
+			"tile_04",
+			"tile_08",
+			"tile_07",
+			"tile_02",
+			"tile_01",
+			"(\"\");",
+			"arrow",
+			"text1",
+			"runAction",
+			"this.tickTime",
+			"20000",
+			"board",
+			"onMobile",
+			"word",
+			"currentWordLabel",
+			"Menu",
+			"letterUnderPoint",
+			"getAbso",
+			"window",
+			"board",
+			"Board",
+			"board",
+			"Board",
+			"board",
+			"parent",
+			"Menu",
+			"console.log(\"will return",
+			"Scene",
+			"action",
+			"modes_menu",
+			"ExportMenuScene",
+			"scene",
+			"sfxWord",
+			"sfxCli",
+			"sfxClick",
+			"bgAudio",
+			"onMobile",
+			"sfxWord",
+			"sfxWordif",
+			"sfxWord",
+			"sfxClick",
+			"setText",
+			"bgAudio",
+			"_gaq",
+			"onFakeWebGL",
+			"onFakeWebGLonM",
+			"onFakeWebGL",
+			"onMobile",
+			"scoreLabel",
+			"currentWordLabel",
+			"font",
+			"new BMFont",
+			"new VMFont",
+			"first=109",
+			"\"p\"",
+			"currentWordLabel",
+			"scoreLabel",
+			"BMFontLabelBlock",
+			"\"p\"",
+			"score",
+			"tickTime",
+			"sndBg",
+			"sfxWo",
+			"mainr",
+			"Server",
+			"server",
+			"word_search",
+			"trie",
+			"dictServer",
+			"Game.trie",
+			"chesterGL.setPause",
+			"objStore",
+			"query.callback",
+			"db\\.",
+			"db",
+			"self",
+			"trie",
+			"window",
+			"goog.vec.Mat4.scale",
+			"goog.vec.Mat4.rotate",
+			"goog.vec.Mat4.translate",
+			"goog.vec.Mat4.multVec3",
+			"goog.vec.Mat4.multMat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n-",
+			"\\n",
+			"",
+			"chesterGL._mat4mul",
+			"chesterGL._mat4scale",
+			"chesterGL._mat4rotate",
+			"chesterGL._mat4translate",
+			"chesterGL._mat4mulvec3",
+			"chesterGL._mat4mul",
+			"JSObject*",
+			"b",
+			"92866A"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Rakefile",
+					"settings":
+					{
+						"buffer_size": 8635,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3835,
+								3835
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1902.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "project.yaml",
+					"settings":
+					{
+						"buffer_size": 871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								531,
+								531
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "myapp.sublime-project",
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								739,
+								739
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/AppDelegate.m",
+					"settings":
+					{
+						"buffer_size": 2242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								649
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 131.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"uth",
+				"targets/spidermonkey/common/uthash.h"
+			],
+			[
+				"cocos2d_",
+				"targets/spidermonkey/common/cocos2d_specifics.cpp"
+			],
+			[
+				"ccmenuitem",
+				"menu_nodes/CCMenuItem.h"
+			],
+			[
+				"ccmenuit",
+				"menu_nodes/CCMenuItem.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true
+}

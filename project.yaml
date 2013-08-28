@@ -1,0 +1,23 @@
+project_name: myapp
+bundle_name: My App
+bundle_identifier: com.mycompany.myapp
+# as per the manpage of codesign, this should be the full string corresponding to the common name of
+# the certificate used to sign. If you really want to disambiguate this, you can use the 40 hex
+# digits corresponding to the SHA-1 of the certificate
+sign_identity: 444F9F734FFE9A8F246156E061C97FA0107A9D81
+# this is also from your certificate and is used to prefix the bundle identifier in the entitlements
+organizational_unit: 683U9TB79H
+frameworks:
+  - Foundation
+  - UIKit
+  - CoreGraphics
+# min ios version, make sure you have the right SDK installed
+minios: 5.1
+# what standard to use for c++
+cxxstd: c++11
+# what c++ std library to use, by default, use clang's version
+stdlib: libc++
+# should we link the objc runtime?
+link_objc_runtime: true
+# should we use objc-arc?
+objc_arc: true
